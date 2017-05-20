@@ -5,4 +5,7 @@ Licensed under MIT
 """
 
 def henlo():
-    print('henlo')
+    return('henlo')
+
+if __name__ == '__main__':
+   print(henlo())
